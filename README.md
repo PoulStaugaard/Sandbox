@@ -1,4 +1,4 @@
 Sandbox
 =======
 
-Playground rules or who else would dot.
+Playground rules or who else would not.
