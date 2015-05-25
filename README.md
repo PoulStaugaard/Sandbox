@@ -1,4 +1,4 @@
 Sandbox
 =======
 
-Playground rules not.
+Playground rules or not.
